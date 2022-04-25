@@ -6,3 +6,4 @@ In a word or two, <b>a messy blog</b>.
 
 
 Tentative Launch Date: Sunday, April 24th.
+Launched: Sunday, April 24th!
