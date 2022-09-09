@@ -65,7 +65,7 @@ a:focus {
 .btn .svg-inline--fa, a.btn .svg-inline--fa {
   margin-right: 5px;
   position: relative;
-  top: -2px;
+  margin-top: 5%;
 }
 
 .btn:hover, a.btn:hover {
@@ -391,35 +391,6 @@ a.dotted-link:hover {
   color: #5f6b77;
 }
 
-/* Work Section */
-.experience .item {
-  margin-bottom: 30px;
-}
-
-.experience .item .title {
-  font-size: 16px;
-  margin-top: 0;
-  margin-bottom: 5px;
-  line-height: 1.5;
-}
-
-.experience .item .title .place {
-  color: #999;
-  font-weight: normal;
-}
-
-.experience .item .title .place a {
-  color: #999;
-}
-
-.experience .item .title .place a:hover {
-  color: #666666;
-}
-
-.experience .item .title .year {
-  color: #999;
-  font-weight: normal;
-}
 
 /* Git section */
 .github-graph {
@@ -503,184 +474,15 @@ a.dotted-link:hover {
   top: 0;
 }
 
-/* Testimonials section */
-
-.testimonials{
-               /* FOR NOW */
-}
-
-.testimonials .section-inner{
-  padding-top: 10px;
-}
-
-.testimonials .heading{
-  margin: 0px 0 10px 0;
-}
 
 
 
-.testimonials .item {
-  margin-bottom: 10px;
-}
-
-.testimonials .item:last-child {
-  margin-bottom: 0;
-}
-
-
-.testimonials .item p {
-  margin-bottom: 0;
+svg .fa-book{
   margin-top: 10px;
 }
 
-.testimonials .item .quote .svg-inline--fa {
-  color: #79d19a;
-  margin-right: 15px;
-  margin-bottom: 40px;
-}
 
-.testimonials .fa-brands {
-  height: 10px;
-  width: 10px;
-}
 
-.testimonials .item .source {
-  font-size: 14px;
-  padding-left: 20px;
-  font-weight: 500;
-}
-
-.testimonials .item .source .name {
-  color: #939ea9;
-  font-weight: 600;
-}
-
-.testimonials .item .source .title {
-  color: #999;
-}
-
-/* Education section */
-.education .item {
-  margin-bottom: 30px;
-}
-
-.education .item:last-child {
-  margin-bottom: 0;
-}
-
-.education .item .title {
-  font-size: 16px;
-  margin-top: 0;
-}
-
-.education .item .university {
-  font-family: 'Source Sans Pro','Lato', sans-serif;
-  font-size: 13px;
-  color: #999;
-  font-weight: 600;
-  padding-left: 25px;
-}
-
-.education .item .university .year {
-  color: #b0b7bf;
-  font-weight: 500;
-}
-
-/* Language Section */
-.languages .item {
-  margin-bottom: 15px;
-}
-
-.languages .item .title {
-  color: #778492;
-}
-
-.languages .item .level {
-  color: #999;
-}
-
-.languages .item:last-child {
-  margin-bottom: 0;
-}
-
-.languages .item .svg-inline--fa {
-  color: #79d19a;
-}
-
-/* Blog Section */
-.blog .item {
-  margin-bottom: 30px;
-}
-
-.blog .item .title {
-  font-size: 18px;
-  line-height: 1.3;
-}
-
-.blog .item .title a {
-  color: #778492;
-}
-
-.blog .item .title a:hover {
-  color: #5f6b77;
-}
-
-.blog .item p {
-  margin-bottom: 5px;
-}
-
-.blog .item:last-child {
-  margin-bottom: 0;
-}
-
-/* List section */
-.list ul li {
-  margin-bottom: 10px;
-}
-
-.list ul li .svg-inline--fa {
-  margin-right: 5px;
-}
-
-.list ul li a {
-  color: #778492;
-}
-
-.list ul li a:hover {
-  color: #49515a;
-}
-
-/* Credits */
-.credits ul li {
-  margin-bottom: 10px;
-}
-
-.credits ul li .svg-inline--fa {
-  margin-right: 5px;
-  position: relative;
-  top: -2px;
-}
-
-.credits ul li a {
-  color: #778492;
-}
-
-.credits ul li a .svg-inline--fa {
-  color: #b0b7bf;
-}
-
-.credits ul li a:hover {
-  color: #49515a;
-}
-
-.credits .btn {
-  margin-bottom: 15px;
-}
-
-.aside .subheading {
-  font-size: 18px;
-  color: #545e69;
-}
 
 /* ======= Footer ======= */
 .footer {
