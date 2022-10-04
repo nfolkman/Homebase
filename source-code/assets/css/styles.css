@@ -6,6 +6,11 @@
  * Copyright: 3rd Wave Media Ltd.
  * Website: https://themes.3rdwavemedia.com/
 */
+
+html{
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Source Sans Pro','Lato', sans-serif;
   color: #1E2124;
@@ -186,7 +191,7 @@ a.dotted-link:hover {
   background-clip: padding-box;
   color: #fff;
   text-align: center;
-  margin: .75rem 0;
+  margin: 1rem 0;
 }
 
 
