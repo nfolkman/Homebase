@@ -5,8 +5,8 @@ My intention with this site is to not only build something that can effectively 
 In a word or two, <b>a messy blog</b>.
 
 
-<b>Tentative Launch Date:</b> Sunday, April 24th.
-<br><b>Launched:</b> Sunday, April 24th! 🎉
+<b>Tentative Launch Date:</b> Sunday, April 24th, 2022.
+<br><b>Launched:</b> Sunday, April 24th, 2022! 🎉
 
 
 <br>![Screenshot (165)](https://user-images.githubusercontent.com/98185555/167981547-6569243f-7a11-4131-873c-5a68d1789db7.png)
